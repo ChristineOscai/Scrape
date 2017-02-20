@@ -1,0 +1,13 @@
+
+# Vim temporary files
+*.swp
+
+# Virtualenv
+.env/
+
+# Temporary files
+xkcdResponses/
+
+# Python compiled executables
+*.pyc
+__pycache__/
